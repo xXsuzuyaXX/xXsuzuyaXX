@@ -1,8 +1,6 @@
+<img "width="30%" height="10%" src="https://document-export.canva.com/DAEEBtOmrSc/74/thumbnail/0001-9278529754.png">
+
 <br/>**Olá, pessoal!** :wave:
-
-<br/>**Esse sou eu** :point_down:
-
-<img width="20%" src="https://avatars0.githubusercontent.com/u/69248581?s=400&u=c62bb05f5f0eda2178f1eaa1de6aad74d61a40d8&v=4">
 
 **Prazer, meu nome é Nicholas;** 
 
