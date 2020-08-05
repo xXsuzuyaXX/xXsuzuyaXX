@@ -4,7 +4,7 @@
 
 <img width="20%" src="https://avatars0.githubusercontent.com/u/69248581?s=400&u=c62bb05f5f0eda2178f1eaa1de6aad74d61a40d8&v=4">
 
-**Prazer, meu nome é Nicholas; 
+**Prazer, meu nome é Nicholas;** 
 
 &nbsp; Estou iniciando minha carreira de desenvolvedor; &nbsp;
 
