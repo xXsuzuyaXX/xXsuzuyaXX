@@ -1,5 +1,4 @@
-<img "width="30%" height="10%" src="https://document-export.canva.com/DAEEBtOmrSc/74/thumbnail/0001-9278529754.png">
-
+<img width="20%" src="https://document-export.canva.com/DAEEBtOmrSc/74/thumbnail/0001-9278529754.png">
 <br/>**Olá, pessoal!** :wave:
 
 **Prazer, meu nome é Nicholas;** 
