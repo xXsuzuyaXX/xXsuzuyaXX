@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+Prazer, meu nome é Nicholas, estou iniciando minha carreira de desenvolvedor;
+Sou do estado do RS, cidade de Viamão;
+Trabalhei como menor aprendiz na empresa GE - Grid, em Canoas;
+Estou atualmente fazendo cursos de desenvolvimento Web;
+Pretendo me aperfeiçoar em ainda mais assuntos na área de programação;
+Atualmente estou desempregado, mas empenhado em encontrar oportunidades na área em que estou cursando;
+E-mail: nicholascostaviegas@gmail.com
+Tel./Whatsapp: (51) 98580-3661
 <!--
 **xXsuzuyaXX/xXsuzuyaXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
